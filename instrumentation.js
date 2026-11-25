@@ -1,6 +1,3 @@
-
-instrumentation.js
-100%
 require('dotenv').config();
 
 const { trace } = require('@opentelemetry/api');
